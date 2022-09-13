@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes using HTML only
+Some Shokugeki No Soma recipes using HTML only
