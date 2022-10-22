@@ -1,0 +1,21 @@
+.index {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.index > ul {
+    display: inline-block;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.chaliapin-steak-don {
+    color: #C23B22;
+}
+
+#title {
+    font-size: 40px;
+    background-color: #C23B22;
+    color: #FFD1A9;
+}
+
