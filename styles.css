@@ -4,8 +4,7 @@
     text-align: center;
 }
 
-.index,
-.chaliapin-steak-don > ul {
+.index> ul {
     display: inline-block;
     text-align: justify;
     text-justify: inter-word;
