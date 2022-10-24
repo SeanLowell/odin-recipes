@@ -1,10 +1,11 @@
 .index,
-.chaliapin-steak-don {
+.chaliapin-steak-don,
+.yukihira-style-barley-flour-soba {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
 
-.index> ul {
+.index > ul {
     display: inline-block;
     text-align: justify;
     text-justify: inter-word;
