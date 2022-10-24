@@ -26,3 +26,9 @@
     text-align: left;
 }
 
+button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #826644;
+    text-align: left;
+    padding: 5px 22px;
+}
